@@ -1,4 +1,4 @@
-# matFMR 1.1
+# matFMR
 
 by Robert E. Kopp  
 March 28, 2007  
