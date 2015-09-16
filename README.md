@@ -1,7 +1,7 @@
 # matFMR 1.1
 
-by Robert E. Kopp
-March 28, 2007
+by Robert E. Kopp  
+March 28, 2007  
 Licensed under the terms of the GNU General Public License
 
 Released as electronic supplementary material for:
